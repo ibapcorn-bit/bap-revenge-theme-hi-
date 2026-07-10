@@ -1,0 +1,26 @@
+{
+  "name": "Liquid Glass",
+  "description": "Glass theme for Revenge",
+  "authors": [
+    {
+      "name": "ibapcorn-bit"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#121212"],
+    "BACKGROUND_SECONDARY": ["#1A1A1A"],
+    "BACKGROUND_TERTIARY": ["#242424"],
+    "BACKGROUND_FLOATING": ["#1E1E1ECC"],
+    "CARD_PRIMARY_BG": ["#FFFFFF14"],
+    "CARD_SECONDARY_BG": ["#FFFFFF0F"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#FFFFFF12"],
+    "BACKGROUND_MODIFIER_HOVER": ["#FFFFFF12"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#FFFFFF18"],
+    "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_MUTED": ["#B0B0B0"],
+    "HEADER_PRIMARY": ["#FFFFFF"],
+    "HEADER_SECONDARY": ["#D0D0D0"],
+    "BRAND_500": ["#7CC8FF"]
+  }
+}
